@@ -1,0 +1,23 @@
+{
+  "name": "add-to-calendar",
+  "version": "1.0.0",
+  "description": "Javascript Utility to implement Add To Calendar functionality on your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsRockyy/add-to-calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "javascript"
+  ],
+  "author": "Abhijeet Saxena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsRockyy/add-to-calendar/issues"
+  },
+  "homepage": "https://github.com/itsRockyy/add-to-calendar#readme"
+}
