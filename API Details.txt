@@ -1,0 +1,8 @@
+Docs for google calendar: https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/master/services/google.md (link example: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bithday&dates=20201231T193000Z/20201231T223000Z&details=With%20clowns%20and%20stuff&location=North%20Pole)
+Docs for yahoo calendar: https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/master/services/yahoo.md (link example: https://calendar.yahoo.com/?v=60&st=st20201231T193000&DUR=0200&desc=With%20clowns%20and%20stuff&in_loc=North%20Pole)
+
+https://calendar.yahoo.com/?v=60&view=d&type=20&title=Super%20Fun%20Event&st=20200908T180052Z&dur=0200&desc=Description%20of%20event.%20Going%20to%20have%20a%20lot%20of%20fun%20doing%20things%20that%20we%20scheduled%20ahead%20of%20time.&in_loc=NYC
+
+https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2020-12-31T19:30:00Z&enddt=2020-12-31T22:30:00Z&subject=Birthday&body=With%20clowns%20and%20stuff&location=North%20Pole
+
+https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20200908T180052Z/20200908T200052Z&location=NYC&text=Super%20Fun%20Event&details=Description%20of%20event.%20Going%20to%20have%20a%20lot%20of%20fun%20doing%20things%20that%20we%20scheduled%20ahead%20of%20time.
