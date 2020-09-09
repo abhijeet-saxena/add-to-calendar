@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>This is Heading</h1>
+  </body>
+  <script src="Calendar.js"></script>
+  <script>
+    let calendarInvite = new CalendarInvite();
+    let e1 = new CalendarEvent("Some Event", "lorem ipsum 20");
+    e1.setDateTime(false, "20200912", "20200912", "130000", "150000");
+    let e2 = new CalendarEvent("Some Event2", "lorem ipsum 20");
+    e2.setDateTime(true, "20200913", "20200913", "130000", "160000");
+    calendarInvite.addEvent(e1);
+    calendarInvite.addEvent(e2);
+    calendarInvite.generateInvite();
+  </script>
+</html>
